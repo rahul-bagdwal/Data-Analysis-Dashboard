@@ -30,4 +30,4 @@ The Lucky store wants to create an annual sales reports for 2024. So that, the o
 
 ## Next Report
 
-  To improve the sales of Lucky store, make a marketing Strategy focusing on women aged 30-49 years residing in Maharashtra, Karnataka and UttarPradesh. The Online Ads, Offers, coupons can be run on Amazon, Flipkart and Myntra.   
+  To improve the sales of Lucky store, make a marketing Strategy focusing on women aged 30-49 years residing in Maharashtra, Karnataka and Uttar Pradesh. The Online Ads, Offers, coupons can be run on Amazon, Flipkart and Myntra.   
