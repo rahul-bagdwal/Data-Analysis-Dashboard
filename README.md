@@ -15,15 +15,11 @@ The Lucky store wants to create an annual sales reports for 2024. So that, the o
 - Relation between age and gender based on number of orders.
 
 - Dashboard Interaction <a href="https://github.com/rahul-bagdwal/Data-Analysis-Dashboard/blob/main/Screenshot%202025-07-08%20135527.png"> View Dashboard</a> 
-
-  ## Process
-
-- Verify data for any missing values.
-- Made sure that the data is consistent and clean with respect to data type, data format and values used.
-- Created Pivot chart sccording to the questions asked.
-- Merge all the pivot tables into one dashboard and apply slice to make dynami.
-
-  ## Dashboard
   
+ ## Project Insight 
 
-  ![Screenshot 2025-07-08 135527](https://github.com/user-attachments/assets/899d77a1-61e9-40c9-91cc-124223671f5b)
+ - Women customer's purchase more product then Men (~69%).
+ - The Adult group is ordering more than 50%.
+ - The Top 3 ordering states are Maharashtra, Karnataka, Uttar Pradesh.
+ - Maximum products are ordered from Amazon, Myntra, Flipkart (~80%).
+ - 92% products are delivered.
