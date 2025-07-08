@@ -27,4 +27,4 @@ The Lucky store wants to create an annual sales reports for 2024. So that, the o
  - The Adult group is ordering more than 50%.
  - The Top 3 ordering states are Maharashtra, Karnataka, Uttar Pradesh.
  - Maximum products are ordered from Amazon, Myntra, Flipkart (~80%).
- - 92% products are delivered.
+ - 92% products are delivered
