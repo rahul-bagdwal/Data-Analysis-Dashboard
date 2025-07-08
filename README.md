@@ -13,3 +13,6 @@ The Lucky store wants to create an annual sales reports for 2024. So that, the o
 - Which channel is contributing the Maximum sales.
 - Highest Selling categories.
 - Relation between age and gender based on number of orders.
+
+- Dashboard Interaction <a href="https://github.com/rahul-bagdwal/Data-Analysis-Dashboard/blob/main/Screenshot%202025-07-08%20135527.png"> View Dashboard</a> 
+  
