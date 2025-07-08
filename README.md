@@ -14,7 +14,12 @@ The Lucky store wants to create an annual sales reports for 2024. So that, the o
 - Highest Selling categories.
 - Relation between age and gender based on number of orders.
 
-- Dashboard Interaction <a href="https://github.com/rahul-bagdwal/Data-Analysis-Dashboard/blob/main/Screenshot%202025-07-08%20135527.png"> View Dashboard</a> 
+- Dashboard Interaction <a href="https://github.com/rahul-bagdwal/Data-Analysis-Dashboard/blob/main/Screenshot%202025-07-08%20135527.png"> View Dashboard</a>
+
+  ## Dashboard
+
+  ![Screenshot 2025-07-08 135527](https://github.com/user-attachments/assets/bb0c25e5-437c-4845-abf7-d3e8177e38e6)
+
   
  ## Project Insight 
 
