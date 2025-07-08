@@ -20,10 +20,14 @@ The Lucky store wants to create an annual sales reports for 2024. So that, the o
 ![Screenshot 2025-07-08 135527](https://github.com/user-attachments/assets/bb0c25e5-437c-4845-abf7-d3e8177e38e6)
 
   
- ## Project Insight 
+  ## Project Insight 
 
  - Women customer's purchase more product then Men (~69%).
  - The Adult group is ordering more than 50%.
  - The Top 3 ordering states are Maharashtra, Karnataka, Uttar Pradesh.
  - Maximum products are ordered from Amazon, Myntra, Flipkart (~80%).
  - 92% products are delivered
+
+## Next Report
+
+  To improve the sales of Lucky store, make a marketing Strategy focusing on women aged 30-49 years residing in Maharashtra, Karnataka and UttarPradesh. The Online Ads, Offers, coupons can be run on Amazon, Flipkart and Myntra.   
