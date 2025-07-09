@@ -28,6 +28,6 @@ The Lucky store wants to create an annual sales reports for 2024. So that, the o
  - Maximum products are ordered from Amazon, Myntra, Flipkart (~80%).
  - 92% products are delivered
 
-## Next Report
+## Next Step
 
   To improve the sales of Lucky store, make a marketing Strategy focusing on women aged 30-49 years residing in Maharashtra, Karnataka and Uttar Pradesh. The Online Ads, Offers, coupons can be run on Amazon, Flipkart and Myntra.   
